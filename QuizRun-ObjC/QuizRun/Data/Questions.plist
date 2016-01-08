@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>item1</key>
+	<dict>
+		<key>Question</key>
+		<string>Which of the following musicals was based on Thornton Wilder&apos;s comedy The Matchmaker?</string>
+		<key>CorrectAnswer</key>
+		<string>Hello, Dolly! </string>
+		<key>WrongAnswer1</key>
+		<string>The Music Man</string>
+		<key>WrongAnswer2</key>
+		<string>Take Me Along
+</string>
+		<key>WrongAnswer3</key>
+		<string>The Unsinkable Molly Brown</string>
+	</dict>
+	<key>item 2</key>
+	<dict>
+		<key>Question</key>
+		<string>What symphony&apos;s last movement includes a setting of Schiller&apos;s poem &quot;Hymn to Joy&quot;?</string>
+		<key>CorrectAnswer</key>
+		<string>Beethoven&apos;s Ninth </string>
+		<key>WrongAnswer1</key>
+		<string>Bruckner&apos;s Eight</string>
+		<key>WrongAnswer2</key>
+		<string>Mahler&apos;s Tenth</string>
+		<key>WrongAnswer3</key>
+		<string>Mozart&apos;s 40th</string>
+	</dict>
+	<key>item 3</key>
+	<dict>
+		<key>Question</key>
+		<string>The sonnet that starts out &quot;The world is charged with the grandeur of God&quot; was written by whom?</string>
+		<key>CorrectAnswer</key>
+		<string>Gerard Manley Hopkins </string>
+		<key>WrongAnswer1</key>
+		<string>Henry Wadsworth Longfellow</string>
+		<key>WrongAnswer2</key>
+		<string>Alfred, Lord Tennyson</string>
+		<key>WrongAnswer3</key>
+		<string>Oscar Wilde</string>
+	</dict>
+	<key>item 4</key>
+	<dict>
+		<key>Question</key>
+		<string>&quot;A wandering minstrel &quot; and &quot;Titwillow&quot; are songs contained in which comic opera by Gilbert and Sullivan?</string>
+		<key>CorrectAnswer</key>
+		<string>The Mikado</string>
+		<key>WrongAnswer1</key>
+		<string>The Gondoliers</string>
+		<key>WrongAnswer2</key>
+		<string>H.M.S. Pinafore</string>
+		<key>WrongAnswer3</key>
+		<string>The Pirates of Penzance</string>
+	</dict>
+	<key>item 5</key>
+	<dict>
+		<key>Question</key>
+		<string>The piano piece known as &quot;The Minute Waltz&quot; was written by whom?</string>
+		<key>CorrectAnswer</key>
+		<string>Frederic  Chopin</string>
+		<key>WrongAnswer1</key>
+		<string>Johannes Brahms</string>
+		<key>WrongAnswer2</key>
+		<string>Franz Liszt</string>
+		<key>WrongAnswer3</key>
+		<string>Sergei Rachmaninoff</string>
+	</dict>
+</dict>
+</plist>
